@@ -1,9 +1,14 @@
 import React from 'react'
 
-export default function ProductInfo() {
+const ProductInfo = () => {
   return (
     <div>
-      pppppppppppppppgkuy
+      ytytytytytytyt
+      <div>
+        thththth
+      </div>
     </div>
   )
 }
+
+export default ProductInfo
