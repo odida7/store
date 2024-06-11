@@ -1,11 +1,9 @@
 import React from 'react'
 
-const ProductInfo = () => {
+export default function ProductInfo() {
   return (
     <div>
-      <p><label htmlFor=""></label></p>
+      <h1>prduct</h1>
     </div>
   )
 }
-
-export default ProductInfo
