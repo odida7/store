@@ -1,9 +1,11 @@
 import React from 'react'
 
-export default function ProductInfo() {
+const ProductInfo = () => {
   return (
     <div>
-      <h1>prduct</h1>
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere commodi ratione mollitia nesciunt natus, porro dignissimos doloribus fugiat enim quidem expedita temporibus voluptate culpa rerum perferendis, fuga aspernatur nihil architecto.
     </div>
   )
 }
+
+export default ProductInfo
